@@ -12,6 +12,12 @@ A responsive **5-step insurance claim submission wizard** built for AI Challenge
 
 Form state persists across Back/Next navigation. Submit logs the payload to the browser console and shows a success screen.
 
+## Live demo
+
+**https://ai-challenge-07.vercel.app**
+
+Production deployment: https://ai-challenge-07-28ji6563h-tohuykiri-4652s-projects.vercel.app
+
 ## Tech stack
 
 | Layer | Technology |

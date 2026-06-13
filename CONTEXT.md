@@ -2,7 +2,7 @@
 
 **Version:** 1.8  
 **Last Updated:** 2026-06-13  
-**Status:** Phase 7 (README) Complete — Ready for GitHub push & Vercel deploy
+**Status:** Deployed — live on Vercel
 
 ---
 
@@ -406,16 +406,15 @@ AI Challenge 07 — Claims Intake Wizard/
 - [x] **Phase 7 — README & build verification** (scoped down — no Vitest)
   - [x] Root `README.md` — install/run instructions, scripts, project overview
   - [x] `npm run build` passes (TypeScript + Vite production build)
-  - [ ] GitHub repo push + Vercel deploy + live URL in README *(submission step — not part of Phase 7 scope)*
+  - [x] Deployed to Vercel — **https://ai-challenge-07.vercel.app** (alias); production URL in README
 
 ### In Progress
-- [ ] Nothing — optional: push to GitHub and deploy to Vercel
+- [ ] Nothing
 
 ### To Do
 
-**Submission (post–Phase 7)**
-- [ ] Push to GitHub
-- [ ] Deploy to Vercel (or Netlify); add live URL to README and this file
+**Submission (optional)**
+- [ ] Confirm GitHub repo is pushed and linked in README (if not already)
 
 ### Timeline Estimate
 | Phase | Estimate |
@@ -484,4 +483,4 @@ AI Challenge 07 — Claims Intake Wizard/
 
 ---
 
-**Next Step:** Push to GitHub, deploy to Vercel, add live URL to `README.md` and Section 7 here.
+**Next Step:** None — wizard complete and deployed. Add GitHub repo URL to README when the repository is public.
